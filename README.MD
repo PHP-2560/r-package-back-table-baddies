@@ -7,4 +7,4 @@ We are creating an R Package that simplifies the inputs for elements of a graph.
 6. legend placement coordinates
 7. colors
 
-Each student will contribute ~2 functions, one for each chart element. 
+Each student will contribute ~2 functions, one for each chart element. In order to test our package, we will use our existing data mining work on "World Population Estimates" from previous assignments. 
